@@ -1,4 +1,4 @@
-# react-links
+# helpful-react-links
 Curated list of helpful react articles/topics
 
 ## Rendering
