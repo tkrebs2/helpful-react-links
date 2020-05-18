@@ -6,3 +6,9 @@ Curated list of helpful react articles/topics
 
 ## Forms
 * [Formik-Overview](https://jaredpalmer.com/formik/docs/overview)
+
+## Styling
+* [styled-components](https://styled-components.com/)
+
+## Component Libraries
+* [Semantic-UI-React](https://react.semantic-ui.com/)
